@@ -10,7 +10,7 @@ const productData = [
     origin_price: 23999,
     price: 21000,
     dimensions: '39"H x 81"W x 35"D',
-    imgUrl: "../img/product4.jpg",
+    imgUrl: "img/product4.jpg",
     category: "sofa",
   },
   {
@@ -23,7 +23,7 @@ const productData = [
     origin_price: 27999,
     price: 25000,
     dimensions: '32"H X 89"W X 33.5"D',
-    imgUrl: "../img/product2.jpg",
+    imgUrl: "img/product2.jpg",
     category: "sofa",
   },
   {
@@ -35,7 +35,7 @@ const productData = [
     origin_price: 45999,
     price: 42000,
     dimensions: '36"H X 81"W X 39"D',
-    imgUrl: "../img/product3.jpg",
+    imgUrl: "img/product3.jpg",
     category: "sofa",
   },
   {
@@ -47,7 +47,7 @@ const productData = [
     origin_price: 32999,
     price: 31000,
     dimensions: "33'' H x 91'' W x 39'' D",
-    imgUrl: "../img/product1.jpg",
+    imgUrl: "img/product1.jpg",
     category: "sofa",
   },
   {
@@ -59,7 +59,7 @@ const productData = [
     origin_price: 35999,
     price: 35000,
     dimensions: '64"H x 64"W x 35"D',
-    imgUrl: "../img/product5.jpg",
+    imgUrl: "img/product5.jpg",
     category: "desk",
   },
   {
@@ -71,7 +71,7 @@ const productData = [
     origin_price: 31999,
     price: 30000,
     dimensions: '39"H x 81"W x 35"D',
-    imgUrl: "../img/product6.jpg",
+    imgUrl: "img/product6.jpg",
     category: "desk",
   },
   {
@@ -83,7 +83,7 @@ const productData = [
     origin_price: 12999,
     price: 12000,
     dimensions: '32"H x 20"W x 35"D',
-    imgUrl: "../img/product7.jpg",
+    imgUrl: "img/product7.jpg",
     category: "chair",
   },
   {
@@ -95,7 +95,7 @@ const productData = [
     origin_price: 15999,
     price: 15000,
     dimensions: '35"H x 25"W x 35"D',
-    imgUrl: "../img/product8.jpg",
+    imgUrl: "img/product8.jpg",
     category: "chair",
   },
   {
@@ -107,7 +107,7 @@ const productData = [
     origin_price: 18999,
     price: 18000,
     dimensions: '29.5"W X 31.9"D X 34"H',
-    imgUrl: "../img/product9.jpg",
+    imgUrl: "img/product9.jpg",
     category: "chair",
   },
 ];

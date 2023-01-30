@@ -116,7 +116,7 @@ console.log(newsLink);
 function newsLinktoPage() {
   newsLink.forEach(function (item) {
     item.addEventListener("click", function () {
-      window.location = "../news_item.html";
+      window.location = "./news_item.html";
     });
   });
 }
